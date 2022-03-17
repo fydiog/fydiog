@@ -1,0 +1,2 @@
+- 👋 My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain, living in Madrid.
+- 👀 I’m currently looking for new opportunities.
