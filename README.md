@@ -8,6 +8,6 @@ Hi! My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain
 ![Contact](https://i.imgur.com/2VMm5LW.png)
  
 <p align='center'>
-  <a href="https://www.linkedin.com/in/fidelmangold/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:fydiog@gmail.com?subject=Hi Fidel!"><img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fidelmangold/"><img src="https://img.shields.io/badge/linkedin-%8B89CC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:fydiog@gmail.com?subject=Hi Fidel!"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
