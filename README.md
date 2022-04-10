@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/IQe9kSI.png)
+![Header](https://i.imgur.com/8edUaHq.png)
 
 My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain, living in Madrid.  👩‍💻
 
