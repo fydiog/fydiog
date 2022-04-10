@@ -1,6 +1,7 @@
 <h1 align='center'> Hey there 👋,  </h1>
 <p>My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain, living in Madrid.  👩‍💻</p>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=fydiog)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fydiog)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr>
 
