@@ -1,5 +1,10 @@
-<h1 align='center'> Hey there 👋, My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain, living in Madrid.  👩‍💻 </h1>
+<h1 align='center'> Hey there 👋,  </h1>
+<p>My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain, living in Madrid.  👩‍💻</p>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=fydiog)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
+
+<p>Reach out to me:</p
 <p align='center'>
   <a href="https://www.linkedin.com/in/fidelmangold/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:fydiog@gmail.com?subject=Hi Fidel!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
