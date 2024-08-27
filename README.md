@@ -1,10 +1,3 @@
-![Header](https://i.imgur.com/jrJZzrS.png)
-
-My name is Fidel Mangold and I'm a Junior Software Developer. I'm from Spain, living in Madrid.  👩‍💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fydiog&layout=compact&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
 ![Contact](https://i.imgur.com/akU6yQs.png)
  
 <p align='center'>
